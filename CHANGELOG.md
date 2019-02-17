@@ -1,7 +1,7 @@
 # LeviKeys Changelog
 All notable changes to LeviKeys will be documented in this file
 
- ## [Unreleased]
+ ## [2.1.2] - 2019-02-17
 ### Added
 - This change log.
 - Installer now includes a shortcut to this change log in the Documentation folder.
@@ -18,10 +18,6 @@ All notable changes to LeviKeys will be documented in this file
 - Resource files now named without extensions - extensions are added when needed by individual scripts. Resource files also have much more ambiguous names than in previous versions.
 - Resource Files are now hidden.
 - Added a border to all GUI without a title bar, purely for aesthetic reasons.
-
-### Deprecated
-
-### Removed
 
 ### Fixed
 - Issue with installer when setting extension for G037 (installer included the prefix: send,  when setting extension.)
