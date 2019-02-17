@@ -4,7 +4,8 @@ All notable changes to LeviKeys will be documented in this file
 ## [Unreleased]
 ### Added
 - This change log.
-- M006 | Opens LeviKeys Changelog in IE.
+- Installer now includes change log shortcut
+- M006 | Opens LeviKeys Change Log in IE.
 ### Changed
 - LeviKeys Documentation and Quick Reference Sheet updated to reflect this change log - Version notes now point here.
 ### Deprecated
