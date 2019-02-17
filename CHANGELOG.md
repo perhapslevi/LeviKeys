@@ -118,11 +118,11 @@ All notable changes to LeviKeys will be documented in this file
 ### Changed
 - Naming convention for all shortkeys is now A000 where A is a letter pertaining to the type of shortkey.
 
-## [1.1.0] - 2019-00-00
+## [1.1.0] - 2019-01-06
 ### Added
 - LeviKeys v1.1 Documentation.
 
-## [1.0.0] - 2019-00-00
+## [1.0.0] - 2019-01-06
 ### Added
 - Remedy Exclusive Keys, Qmaster Exclusive Keys, and Global Keys.
 - G001 | Opens internet explorer and browses to nebula
