@@ -1,10 +1,11 @@
 # LeviKeys Changelog
 All notable changes to LeviKeys will be documented in this file
 
-## [Unreleased]
+ ## [Unreleased]
 ### Added
 - This change log.
-- Installer now includes change log shortcut
+- Installer now includes a shortcut to this change log in the Documentation folder.
+- Sound! LeviKeys now has the option during installation to include sound files. When included, LeviKeys will play a theme tune on load, and will play a noise when suspending / unsuspending LeviKeys.
 - M006 | Opens LeviKeys Change Log in IE.
 ### Changed
 - LeviKeys Documentation and Quick Reference Sheet updated to reflect this change log - Version notes now point here.
@@ -17,6 +18,7 @@ All notable changes to LeviKeys will be documented in this file
 - Typo in LeviKeys Documentation - NECare templates G024AA - G024AD were all labelled as G024b
 - Typo in LeviKeys Documentation and Quick Reference Sheet where G001 was shown to have4 Menu+Alt+N instead of Menu+Alt+V
 - Numerous other small typos in Documentation and Quick Reference Sheet.
+- Issue with installer where image wasn't displaying.
 
 ## [2.1.1] - 2019-02-11
 ### Added
@@ -68,7 +70,7 @@ All notable changes to LeviKeys will be documented in this file
 - G025A to G025I | Engineering Team Acronyms
 - G026 | Channel Partner Call Template
 - G027 | Set current window to always on top
-- G028 | "ManagedServices@tsa.com.au"
+- G028 | TSA email
 - G029A to G029U | VOTS Acronyms
 - G030 | "N/A"
 - G031 | "Original email attached"
@@ -84,14 +86,14 @@ All notable changes to LeviKeys will be documented in this file
 - LeviKeys Quick Reference Sheet
 - G015 | Generates a random number between 1 and 10 (inclusive.)
 - G016 | Generates a random number between options entered by the user.
-- G017 | Opens Internet Explorer and browses to http://vvicdc1ucb01/snapshot/
+- G017 | Opens Internet Explorer and browses to snapshot
 - G018 | KTS Call template
 - G019 | "AustralianSuper"
 - S??? | Secret Shortkey
 - G020A to G020AL | SAGOV Acronyms
-- G021 | "vots@nec.com.au"
-- G022 | "Config-VOTS@nec.com.au"
-- G023 | "Config-VOTS@nec.com.au"
+- G021 | VOTS team email
+- G022 | VOTS Config email
+- G023 | VOTS Config email
 
 ## [1.2.0] - 2019-01-07
 ### Added
@@ -106,7 +108,7 @@ All notable changes to LeviKeys will be documented in this file
 - G014 | "7510"
 
 ### Changed
-- Naming convention for all shortkeys is now #000 where # is a letter pertaining to the type of shortkey.
+- Naming convention for all shortkeys is now A000 where A is a letter pertaining to the type of shortkey.
 
 ## [1.1.0] - 2019-00-00
 ### Added
@@ -114,7 +116,7 @@ All notable changes to LeviKeys will be documented in this file
 
 ## [1.0.0] - 2019-00-00
 ### Added
-- G001 | Opens internet explorer and browses to https://nebula.nec.com.au/
+- G001 | Opens internet explorer and browses to nebula
 - G002 | Equals horizontal line
 - G003 | Hyphen horizontal line
 - G004 | Underscore horizontal line
