@@ -1,12 +1,12 @@
-# Changelog
-All notable changes to this project will be documented in this file
+# LeviKeys Changelog
+All notable changes to LeviKeys will be documented in this file
 
 ## [Unreleased]
 ### Added
 - This change log.
-
+- M006 | Opens LeviKeys Changelog in IE.
 ### Changed
-
+- LeviKeys Documentation and Quick Reference Sheet updated to reflect this change log - Version notes now point here.
 ### Deprecated
 
 ### Removed
@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file
 - Issue with installer when setting extension for G037 (installer included the prefix: send,  when setting extension.)
 - Typo in LeviKeys Documentation - NECare templates G024AA - G024AD were all labelled as G024b
 - Typo in LeviKeys Documentation and Quick Reference Sheet where G001 was shown to have4 Menu+Alt+N instead of Menu+Alt+V
+- Numerous other small typos in Documentation and Quick Reference Sheet.
 
 ## [2.1.1] - 2019-02-11
 ### Added
@@ -95,8 +96,8 @@ All notable changes to this project will be documented in this file
 ### Added
 - G006 | Forwarded email to VOTS and Config teams.
 - G007 | Replied to customer.
-- G008 | "¯\\_(ツ)_/¯"
-- G009 | "¯&#92;_(ツ)_/¯"
+- G008 | "¯\\\_(ツ)\_/¯"
+- G009 | "¯&#92;\_(ツ)\_/¯"
 - G010 | Copyright Symbol
 - G011 | Trademark Symbol
 - G012 | "‽"
