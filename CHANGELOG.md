@@ -5,10 +5,13 @@ All notable changes to LeviKeys will be documented in this file
 ### Added
 - This change log.
 - Installer now includes a shortcut to this change log in the Documentation folder.
-- Sound! LeviKeys now has the option during installation to include sound files. When included, LeviKeys will play a theme tune on load, and will play a noise when suspending / unsuspending LeviKeys.
+- Sound! LeviKeys now has the option during installation to include sound files. When included, LeviKeys will play a theme tune on load, and will play a noise when suspending / unsuspending LeviKeys or when setting a new extension.
 - M006 | Opens LeviKeys Change Log in IE.
 ### Changed
 - LeviKeys Documentation and Quick Reference Sheet updated to reflect this change log - Version notes now point here.
+- M003 now calls a GUI with options to open Quick Reference, Documentation, Change Log, and also has an option to turn sound on or off.
+- Resource files now named without extensions - extensions are added when needed by individual scripts. Resource files also have much more ambiguous names than in previous versions.
+- Resource Files are now hidden.
 ### Deprecated
 
 ### Removed
