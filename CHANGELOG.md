@@ -65,11 +65,11 @@ All notable changes to LeviKeys will be documented in this file
 
 ## [2.0.1] - 2019-01-17
 ### Added
-- Installer to handle installation of LeviKeys
+- New storage convention - instead of using a folder on H:/ named after the version, LeviKeys now uses a folder called "LeviKeys Required Files" in order to put all LeviKeys files in one place.
 
 ## [2.0.0] - 2019-01-16
 ### Added
-- New storage convention - instead of using a folder on H:/ named after the version, LeviKeys now uses a folder called "LeviKeys Required Files" in order to put all LeviKeys files in one place.
+- Installer to handle installation of LeviKeys
 - MetaKeys with naming convention M000
 - Autoformatting for month names and days of the week
 - Autoformatting for NEC Specific language such as NECare
@@ -91,6 +91,12 @@ All notable changes to LeviKeys will be documented in this file
 - G036 | "Security Operations Group"
 - H001 - H004 | Fills in timesheets for 4x4 team.
 
+### Changed
+- G018 | Minor formatting changes
+
+### Removed
+- R001 to R003 | Replaced with G030 to G031
+
 ## [1.3.0] - 2019-01-09
 ### Added
 - LeviKeys Quick Reference Sheet
@@ -109,10 +115,6 @@ All notable changes to LeviKeys will be documented in this file
 ### Added
 - G006 | Forwarded email to VOTS and Config teams.
 - G007 | Replied to customer.
-- G008 | "¯\\\_(ツ)\_/¯"
-- G009 | "¯&#92;\_(ツ)\_/¯"
-- G010 | Copyright Symbol
-- G011 | Trademark Symbol
 - G012 | "‽"
 - G013 | "7510"
 - G014 | "7510"
@@ -126,10 +128,20 @@ All notable changes to LeviKeys will be documented in this file
 
 ## [1.0.0] - 2019-00-00
 ### Added
+- Remedy Exclusive Keys, Qmaster Exclusive Keys, and Global Keys.
 - G001 | Opens internet explorer and browses to nebula
 - G002 | Equals horizontal line
 - G003 | Hyphen horizontal line
 - G004 | Underscore horizontal line
 - G005 | "If you require any further assistance, please don't hesitate to contact us."
+- G008 | "¯\\\_(ツ)\_/¯"
+- G009 | "¯&#92;\_(ツ)\_/¯"
+- G010 | Copyright Symbol
+- G011 | Trademark Symbol
 - Q001 | Pastes email template with reference number
 - Q002 | Inserts email template with placeholder for reference number
+- R001 | N/A
+- R002 | "Original Email Attached"
+- R003 | "Closing as Information Only"
+- R004 | Automatically Attaches Email in Remedy (unstable)
+- R005 | Automatically selects first option for categorization (unstable)
