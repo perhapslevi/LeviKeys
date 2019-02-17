@@ -17,6 +17,7 @@ All notable changes to LeviKeys will be documented in this file
 - M004 now plays a snippet of Hotline Bling when setting the extension if sound is turned on.
 - Resource files now named without extensions - extensions are added when needed by individual scripts. Resource files also have much more ambiguous names than in previous versions.
 - Resource Files are now hidden.
+- Added a border to all GUI without a title bar, purely for aesthetic reasons.
 
 ### Deprecated
 
