@@ -95,8 +95,8 @@ All notable changes to this project will be documented in this file
 ### Added
 - G006 | Forwarded email to VOTS and Config teams.
 - G007 | Replied to customer.
-- G008 | "¯\_(ツ)_/¯"
-- G009 | "¯\_(ツ)_/¯"
+- G008 | "¯\\_(ツ)_/¯"
+- G009 | "¯&#92;_(ツ)_/¯"
 - G010 | Copyright Symbol
 - G011 | Trademark Symbol
 - G012 | "‽"
