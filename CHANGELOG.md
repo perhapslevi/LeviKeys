@@ -1,7 +1,17 @@
 # LeviKeys Changelog
 All notable changes to LeviKeys will be documented in this file
 
- ## [2.1.2] - 2019-02-17
+## [2.1.3] - 2019-02-18
+### Added
+- Feedback option in Help menu.
+
+### Changed
+- Considerable updates to Uninstaller
+
+### Fixed
+- Issue with Uninstaller, where it is unable to remove itself.
+
+## [2.1.2] - 2019-02-17
 ### Added
 - This change log.
 - Installer now includes a shortcut to this change log in the Documentation folder.
