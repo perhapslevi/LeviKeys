@@ -17,7 +17,7 @@ All notable changes to LeviKeys will be documented in this file
 ### Removed
 
 ### Fixed
-- Issue with Feedback dialog, where it would error out the second time you tried to load it.3
+- Issue with Feedback dialog, where it would error out the second time you tried to load it.
 - Fixed typo in Documentation and Quick Reference Sheet, where SAGOV Acronyms did not include the letter 's' before the acronym.
 
 ## [2.1.3] - 2019-02-18
