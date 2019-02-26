@@ -5,11 +5,11 @@ All notable changes to LeviKeys will be documented in this file
 ### Added
 - Tray Menu. LeviKeys now has options to open up LeviKeys Help, toggle LeviKeys Sounds, Suspend, Restart, or Exit LeviKeys.
 - LeviKeys Mapping Utility - This tool allows the user to remap several keys to act as the AppKey (for keyboards that omit it.)
+- G051 | Toggle text case.
 
 ### Changed
 - Help Menu updated to include option for using the LeviKeys Mapping Utility - Help Menu runs this separate app as Administrator to allow registry changes to be made. As part of this, some minor changes have been madde to the design of this dialog.
 - Uninstaller updated to remove registry entries from LeviKeys Mapping Utility - Uninstaller Package now runs the Uninstaller Temp as administrator to allow this.
-- Fixed typo in Documentation and Quick Reference Sheet, where SAGOV Acronyms did not include the letter 's' before the acronym.
 - Installer now has a progress bar included to prevent action before files are copied.
 
 ### Deprecated
@@ -17,7 +17,8 @@ All notable changes to LeviKeys will be documented in this file
 ### Removed
 
 ### Fixed
-- Issue with Feedback dialog, where it would error out the second time you tried to load it.
+- Issue with Feedback dialog, where it would error out the second time you tried to load it.3
+- Fixed typo in Documentation and Quick Reference Sheet, where SAGOV Acronyms did not include the letter 's' before the acronym.
 
 ## [2.1.3] - 2019-02-18
 ### Added
