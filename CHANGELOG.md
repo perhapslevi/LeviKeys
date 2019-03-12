@@ -8,6 +8,7 @@ All notable changes to LeviKeys will be documented in this file
 - G051 | Toggle text case
 - G052 | Computer Name
 - G053A - G053G | Returns Date and/or time in various formats.
+- G054 | Useful Links
 
 ### Changed
 - Help Menu updated to include option for using the LeviKeys Mapping Utility - Help Menu runs this separate app as Administrator to allow registry changes to be made. As part of this, some minor changes have been madde to the design of this dialog.
