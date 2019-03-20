@@ -4,7 +4,7 @@ All notable changes to LeviKeys will be documented in this file
 ## [Unreleased]
 ### Added
 - Tray Menu. LeviKeys now has options to open up LeviKeys Help, toggle LeviKeys Sounds, Suspend, Restart, or Exit LeviKeys.
-- LeviKeys Mapping Utility 1.0 - This tool allows the user to remap several keys to act as the Context Menu Key/App Key (for keyboards that omit it.)
+- LeviKeys Mapping Utility 1.0 - This tool allows the user to remap one of several keys to act as the Context Menu Key/App Key (for keyboards that omit it.)
 - G051 | Toggle text case
 - G052 | Computer Name
 - G053A - G053G | Returns Date and/or time in various formats.
