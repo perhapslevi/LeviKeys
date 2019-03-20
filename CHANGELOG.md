@@ -9,11 +9,13 @@ All notable changes to LeviKeys will be documented in this file
 - G052 | Computer Name
 - G053A - G053G | Returns Date and/or time in various formats.
 - G054 | Useful Links
+- Installer now has a progress bar, and options to add LeviKeys to the Start Menu and a Desktop Shortcut.
+- Added instruction on how to map a key with the Mapping Utility to the Documentation.
 
 ### Changed
+- New file hierarchy. Previous versions installed to the H:/ however from this version, the C:/ is utilised.
 - Help Menu updated to include option for using the LeviKeys Mapping Utility - Help Menu runs this separate app as Administrator to allow registry changes to be made. As part of this, some minor changes have been madde to the design of this dialog.
-- Uninstaller updated to remove registry entries from LeviKeys Mapping Utility - Uninstaller Package now runs the Uninstaller Temp as administrator to allow this.
-- Installer now has a progress bar included to prevent action before files are copied.
+- Brand new uninstaller.
 
 ### Deprecated
 
