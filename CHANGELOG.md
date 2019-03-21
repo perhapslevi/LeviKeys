@@ -1,7 +1,7 @@
 # LeviKeys Changelog
 All notable changes to LeviKeys will be documented in this file
 
-## [Unreleased]
+## [2.2] - 2019-03-21
 ### Added
 - Tray Menu. LeviKeys now has options to open up LeviKeys Help, toggle LeviKeys Sounds, Suspend, Restart, or Exit LeviKeys.
 - LeviKeys Mapping Utility 1.0 - This tool allows the user to remap one of several keys to act as the Context Menu Key/App Key (for keyboards that omit it.)
@@ -16,10 +16,6 @@ All notable changes to LeviKeys will be documented in this file
 - New file hierarchy. Previous versions installed to the H:/ however from this version, the C:/ is utilised.
 - Help Menu updated to include option for using the LeviKeys Mapping Utility - Help Menu runs this separate app as Administrator to allow registry changes to be made. As part of this, some minor changes have been madde to the design of this dialog.
 - Brand new uninstaller.
-
-### Deprecated
-
-### Removed
 
 ### Fixed
 - Issue with Feedback dialog, where it would error out the second time you tried to load it.
