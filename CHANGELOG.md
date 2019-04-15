@@ -1,6 +1,17 @@
 # LeviKeys Changelog
 All notable changes to LeviKeys will be documented in this file
 
+## UNRELEASED
+### Added
+- H005 | Fills in timesheer line with 4x4 Cover Shift details.
+- G055 | Shows all four 4x4 shift bands.
+- G056 | Shortcut to produce five full stops in a row.
+
+### Changed
+### Deprecated
+### Removed
+### Fixed
+
 ## [2.2] - 2019-03-21
 ### Added
 - Tray Menu. LeviKeys now has options to open up LeviKeys Help, toggle LeviKeys Sounds, Suspend, Restart, or Exit LeviKeys.
