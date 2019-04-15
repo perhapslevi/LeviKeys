@@ -3,11 +3,14 @@ All notable changes to LeviKeys will be documented in this file
 
 ## UNRELEASED
 ### Added
-- H005 | Fills in timesheer line with 4x4 Cover Shift details.
+- H005 | Fills in timesheet line with 4x4 Cover Shift details.
 - G055 | Shows all four 4x4 shift bands.
 - G056 | Shortcut to produce five full stops in a row.
+- Added Phone Contact List to Logging Assistant.
 
 ### Changed
+- Logging Assistant now appears in the task bar, and can be moved around the screen. I don't know why I thought it would be a good idea to remove these default options in the first place.
+ 
 ### Deprecated
 ### Removed
 ### Fixed
