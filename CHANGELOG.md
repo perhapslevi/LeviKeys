@@ -4,7 +4,7 @@ All notable changes to LeviKeys will be documented in this file
 ## UNRELEASED
 ### Added
 - H005 | Fills in timesheet line with 4x4 Cover Shift details.
-- G055 | Shows all four 4x4 shift bands.
+- G055 | Wrap selected text in percentages e.g: %[...]%.
 - G056 | Shortcut to produce five full stops in a row.
 - Added Phone Contact List to Logging Assistant.
 
