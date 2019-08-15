@@ -6,7 +6,9 @@ All notable changes to LeviKeys will be documented in this file
 - H005 | Fills in timesheet line with 4x4 Cover Shift details.
 - G055 | Wrap selected text in percentages e.g: %[...]%.
 - G056 | Shortcut to produce five full stops in a row.
-- Added Phone Contact List to Logging Assistant.
+- G057 | Shortcut to copy text without leading or trailing spaces/tabs.
+- G058 | Shortcut to open new Corp Contact Sheet - digitised version of our contact sheet printout.
+- Added the Corp Contact Sheet to Logging Assistant.
 
 ### Changed
 - Logging Assistant now appears in the task bar, and can be moved around the screen. I don't know why I thought it would be a good idea to remove these default options in the first place.
